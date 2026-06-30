@@ -2,6 +2,10 @@
 
 TaskMaster is a modern React-based task management application that helps users organize their daily tasks. Users can add, complete, and delete tasks while automatically saving their progress using the browser's local storage, ensuring tasks persist between sessions.
 
+## Live Demo
+
+🚀 **Live Demo:** [https://todo-app-rdean-dev1.vercel.app/]
+
 ## Features
 
 - **Add Tasks**: Quickly create new tasks.
