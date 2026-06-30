@@ -37,7 +37,7 @@ TaskMaster is a modern React-based task management application that helps users 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rdean-dev/taskmaster.git
+git clone https://github.com/Rdean-dev/Todo-App.git
 ```
 
 2. Navigate to the project folder:
@@ -71,7 +71,7 @@ npm run dev
 
 ## Screenshots
 
-
+<img width="1913" height="893" alt="Screenshot 2026-06-30 014526" src="https://github.com/user-attachments/assets/c32f38e4-9038-48b4-98ff-6fd257773710" />
 
 ## License
 
